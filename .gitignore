@@ -1,4 +1,5 @@
 # Angular specific
+/cache 
 /dist/
 /out-tsc/
 /tmp/
