@@ -1,5 +1,6 @@
 # Angular specific
-/cache 
+/cache/
+/.ipynb_checkpoints/
 /dist/
 /out-tsc/
 /tmp/
