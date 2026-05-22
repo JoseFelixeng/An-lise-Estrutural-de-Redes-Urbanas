@@ -167,6 +167,11 @@ Usando as configurações padrão:
 
 ---
 
+## Link Video LOOM 
+https://www.loom.com/share/8119c0cd567c4b0287cfb47fb2bab8b4
+
+---
+
 ## Tecnologias
 
 * Python
